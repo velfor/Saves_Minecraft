@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-02-02 18:34:14 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-01-23 17:39:44 +0300"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2023-02-02 18:31:45 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-01-23 18:29:40 +0300"
@@ -268,6 +280,7 @@
       "baked_potato": "2023-01-30 18:44:17 +0300",
       "potato": "2023-01-30 18:11:24 +0300",
       "bread": "2023-01-23 18:30:47 +0300",
+      "melon_slice": "2023-02-02 18:48:58 +0300",
       "cooked_rabbit": "2023-01-30 18:44:11 +0300"
     },
     "done": false
@@ -725,15 +738,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2023-02-01 18:23:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-01 18:23:29 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_white_wool": "2023-02-01 18:23:17 +0300"
+      "has_melon": "2023-02-02 18:34:14 +0300"
     },
     "done": true
   },
@@ -872,6 +891,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-01-30 18:15:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2023-02-02 18:31:45 +0300"
     },
     "done": true
   },
@@ -1255,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-02-02 18:37:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-01-30 18:05:01 +0300"
@@ -1468,6 +1499,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-01-23 17:40:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-02-02 18:34:14 +0300"
     },
     "done": true
   },
