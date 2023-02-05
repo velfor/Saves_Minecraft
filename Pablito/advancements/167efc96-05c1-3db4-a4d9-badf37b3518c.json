@@ -239,6 +239,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2023-02-04 17:22:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2023-02-04 17:26:25 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2023-01-30 18:22:13 +0300"
@@ -281,7 +293,8 @@
       "potato": "2023-01-30 18:11:24 +0300",
       "bread": "2023-01-23 18:30:47 +0300",
       "melon_slice": "2023-02-02 18:48:58 +0300",
-      "cooked_rabbit": "2023-01-30 18:44:11 +0300"
+      "cooked_rabbit": "2023-01-30 18:44:11 +0300",
+      "carrot": "2023-02-04 17:16:59 +0300"
     },
     "done": false
   },
@@ -342,6 +355,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2023-01-30 18:15:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
     },
     "done": true
   },
@@ -423,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-02-04 17:26:25 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-01-30 18:16:22 +0300"
@@ -437,6 +462,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2023-02-04 17:06:16 +0300",
       "minecraft:cow": "2023-02-01 18:24:59 +0300"
     },
     "done": false
@@ -486,6 +512,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-01-23 17:40:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
     },
     "done": true
   },
@@ -570,6 +602,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-01-23 18:30:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
     },
     "done": true
   },
@@ -693,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2023-01-23 17:39:36 +0300"
@@ -710,13 +754,20 @@
       "minecraft:skeleton": "2023-02-01 18:40:08 +0300",
       "minecraft:spider": "2023-02-01 18:10:35 +0300",
       "minecraft:stray": "2023-02-01 18:09:29 +0300",
-      "minecraft:zombie": "2023-01-30 17:43:44 +0300"
+      "minecraft:zombie": "2023-01-30 17:43:44 +0300",
+      "minecraft:zombie_villager": "2023-02-04 17:30:59 +0300"
     },
     "done": false
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-01 18:23:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
     },
     "done": true
   },
@@ -735,6 +786,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-01-30 18:05:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-02-04 17:22:57 +0300"
     },
     "done": true
   },
@@ -972,6 +1029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2023-02-04 17:22:57 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2023-01-23 17:39:00 +0300"
@@ -1140,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2023-01-23 17:39:36 +0300"
@@ -1209,6 +1278,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-01-30 18:05:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
     },
     "done": true
   },
@@ -1427,6 +1502,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2023-01-30 18:33:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-02-04 17:27:21 +0300"
     },
     "done": true
   },
