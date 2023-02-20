@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-02-20 18:20:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-02-15 18:35:16 +0300"
@@ -230,6 +236,18 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2023-02-15 18:55:31 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -317,6 +335,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2023-02-19 18:56:24 +0300"
@@ -356,6 +380,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2023-01-30 18:28:08 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -404,6 +434,12 @@
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2023-02-19 17:12:39 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -647,6 +683,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-01-30 18:05:47 +0300"
@@ -701,6 +743,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/pink_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-01-30 18:15:51 +0300"
@@ -734,6 +782,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2023-02-19 19:24:31 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -947,6 +1001,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/fridge_dark": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2023-02-15 18:35:16 +0300"
@@ -1115,6 +1175,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-02-15 18:35:16 +0300"
@@ -1264,6 +1330,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2023-02-19 17:12:39 +0300"
@@ -1372,6 +1444,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2023-02-15 18:56:48 +0300"
@@ -1423,6 +1501,18 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-01-23 18:29:40 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/post_box": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -1738,6 +1828,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2023-01-23 17:38:39 +0300"
@@ -1952,6 +2048,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2023-01-30 18:33:29 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -2318,6 +2420,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2023-02-15 18:35:16 +0300"
@@ -2419,6 +2527,7 @@
       "cabbage": "2023-02-19 18:54:07 +0300",
       "rice": "2023-02-19 19:12:05 +0300",
       "beetroot": "2023-02-19 18:55:46 +0300",
+      "sugar_cane": "2023-02-20 18:22:43 +0300",
       "potato": "2023-02-19 18:56:34 +0300",
       "wheat": "2023-02-19 18:53:08 +0300",
       "pumpkin": "2023-02-19 19:05:47 +0300",
@@ -2471,6 +2580,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-02-15 18:47:41 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -2555,6 +2670,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-01-23 17:40:17 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -2786,9 +2907,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-02-20 18:20:29 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-01-30 18:26:44 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -2861,6 +3000,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-01 18:23:29 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_grill": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
@@ -2999,6 +3144,12 @@
   "cfm:recipes/cfm/spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2023-02-19 17:12:39 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_light": {
+    "criteria": {
+      "has_iron": "2023-02-20 18:20:50 +0300"
     },
     "done": true
   },
